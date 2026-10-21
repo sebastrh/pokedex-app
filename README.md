@@ -1,2 +1,2 @@
-pages Branch
+Pages Branch
 # pokedex-app
