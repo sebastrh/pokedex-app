@@ -1,2 +1,2 @@
-Main Branch
+Develop Branch
 # pokedex-app
